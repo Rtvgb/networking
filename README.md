@@ -12,7 +12,8 @@ Hands-on networking labs built in Cisco Packet Tracer and other tools, focused o
 | [Lab 4 – Subnetting](./Lab4_Subnetting/) | Subnetted 192.168.10.0/24 into two /25 subnets and configured a router and 4 PCs across both segments | ✅ Complete |
 | [Lab 5 – Cryptography & PGP Digital Signatures](./Lab5_Cryptography_PGP/) | Encrypted a file using a recipient's public key and signed it with SHA256 using PGP | ✅ Complete |
 | [Lab 6 – Wireless LAN Configuration & Security](./Lab6_Wireless_LAN_Configuration/) | Configured and secured a WAP with SSIDs, WPA2/AES, MAC filtering, DHCP reservations, and a guest network | ✅ Complete |
+| [Lab 7 – VLAN Configuration](./Lab7_VLAN_Configuration/) | Configured VLANs on a Cisco switch to segment network traffic into separate broadcast domains | ✅ Complete |
 
 ## Environment
 - **Simulation Tool:** Cisco Packet Tracer
-- **Focus Areas:** Physical infrastructure, IP addressing, switching, DHCP, DNS, routing, subnetting, cryptography, wireless networking
+- **Focus Areas:** Physical infrastructure, IP addressing, switching, DHCP, DNS, routing, subnetting, cryptography, wireless networking, VLANs
